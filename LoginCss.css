@@ -1,0 +1,60 @@
+.Header{
+	height:60px;
+	background-color:red;
+}
+
+form{
+	width:30%;
+	border:1px solid black;
+	margin-left:35%;
+	margin-top:20px;
+}
+form input {
+	width:80%;
+	display:block;
+	height:30px;
+	margin-top:10px;
+	margin-left:10%;
+	cursor:pointer;
+}
+.btn{
+	color:white;
+	background-color:black;
+	border:1px solid gray;
+	height:60px;
+	font-family:verdana;
+	font-size:20px;
+	margin-bottom:20px;
+	cursor:pointer;
+
+}
+h2{
+	text-align:center;
+	text-decoration:underline;
+    letter-spacing:5px;
+    font-size:30px;
+    font-family:sans-serif;
+    cursor:alias;
+
+}
+.btn:hover{
+	color:black;
+	background-color:white;
+	font-size:21px;
+}
+.Siignup{
+	width:100%;
+	height:auto;
+	background-color:#fa8c84;
+	color:black;
+	text-align:center;
+	font-family:verdana;
+	font-size:15px;
+	margin-bottom:10px;
+}
+
+.Siignup p {
+	padding:5px;
+	font-family:verdana;
+	font-size:20px;
+}
